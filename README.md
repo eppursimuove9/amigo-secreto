@@ -16,7 +16,9 @@ Puedes usar el proyecto de dos maneras:
    ```
    Luego abre el archivo `index.html` en tu navegador.
 
-2. **Ingresando al enlace publicado en GitHub Pages** (si está disponible).
+2. **Ingresando al enlace publicado en GitHub Pages**
+   
+   (https://eppursimuove9.github.io/amigo-secreto/)
 
 ---
 
