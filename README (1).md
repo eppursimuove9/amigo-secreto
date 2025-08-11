@@ -1,7 +1,5 @@
 # 🎁 Juego del Amigo Secreto
 
-![Banner del Proyecto](assets/banner.png) <!-- Si no tienes un banner, puedes eliminar esta línea o agregar uno -->
-
 Aplicación web interactiva que permite organizar y seleccionar de forma **aleatoria** a un Amigo Secreto.  
 Desarrollada con **HTML**, **CSS** y **JavaScript**, este proyecto es un ejemplo práctico de manipulación del DOM y generación de resultados aleatorios.
 
