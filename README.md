@@ -56,15 +56,6 @@ Es ideal para **eventos, fiestas o actividades en grupo**.
 
 ---
 
-📷 Vista previa
-
-(assets/Screenshot 2025-08-11 at 16.41.53.png)
-
-
-
-
----
-
 ## 🔧 Instalación y uso local
 
 1. Clona el repositorio:
