@@ -56,16 +56,6 @@ Es ideal para **eventos, fiestas o actividades en grupo**.
 
 ---
 
-## 📷 Vista previa
-
-> Agrega aquí una captura de pantalla del juego en acción para que se vea más atractivo en GitHub.
->
-> Ejemplo:
->
-> ![Captura del juego](assets/screenshot.png)
-
----
-
 ## 🔧 Instalación y uso local
 
 1. Clona el repositorio:
